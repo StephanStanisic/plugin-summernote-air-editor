@@ -1,4 +1,8 @@
-# Summernote Air plugin (Author: Stephan Stanisic @StephanStanisic)
+# Summernote Air plugin 
+## Author: Stephan Stanisic @StephanStanisic
+[![Issue Progress](https://img.shields.io/badge/%E2%9C%93-Issue%20Progress-gray?labelColor=brightgreen&style=flat)](https://crypt.stanisic.nl/kanban/#/2/kanban/view/p6mqokEiUAhkSAJsJVWJyDn04dYvNAkWBLtt4PRF7ZU/)
+[![WonderCMS 3.x.x](https://img.shields.io/badge/WonderCMS-3.x.x-%231ab?style=flat)](https://github.com/robiso/wondercms)
+
 Floating version of the Summernote editor for WonderCMS 3.0.0
 
 ## Default Summernote plugin (before) 
